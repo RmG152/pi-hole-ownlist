@@ -5,3 +5,7 @@
 0.0.0.0 cphalk.com
 0.0.0.0 popads.net
 0.0.0.0 fukkzdxfyrchhc.com
+0.0.0.0 65mjvw6i1z.com
+0.0.0.0 thterras.com
+0.0.0.0 raqucjjblu.com
+0.0.0.0 velocitycdn.com
