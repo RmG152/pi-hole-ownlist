@@ -9,3 +9,5 @@
 0.0.0.0 thterras.com
 0.0.0.0 raqucjjblu.com
 0.0.0.0 velocitycdn.com
+0.0.0.0 4b6994dfa47cee4.com
+0.0.0.0 qvilmdus.com
