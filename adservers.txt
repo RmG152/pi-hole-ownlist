@@ -6,16 +6,21 @@
 0.0.0.0 popads.net
 0.0.0.0 fukkzdxfyrchhc.com
 0.0.0.0 65mjvw6i1z.com
+0.0.0.0 e6cfmdmo81.com
 0.0.0.0 thterras.com
 0.0.0.0 raqucjjblu.com
 0.0.0.0 velocitycdn.com
 0.0.0.0 4b6994dfa47cee4.com
 0.0.0.0 qvilmdus.com
 0.0.0.0 hehraybryciyls.com
+0.0.0.0 uitopadxdy.com
+0.0.0.0 uitopadxdo.com
+
 
 # Add security to ip cameras
 0.0.0.0 mac.secu100.net
 0.0.0.0 pub-cfg.secu100.net
 0.0.0.0 upgrade.secu100.net
+0.0.0.0 secu100.net
 0.0.0.0 xmeye.com
 0.0.0.0 xmsecu.com
