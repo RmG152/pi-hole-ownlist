@@ -67,6 +67,13 @@
 0.0.0.0 zlnuhkc2sqomtw.net
 0.0.0.0 znhipnbe5sh.net
 
+# 2021/11/06 NextDns Top blocked domains 
+0.0.0.0 androidtvchannels-pa.googleapis.com
+0.0.0.0 device-metrics-us-2.amazon.com
+0.0.0.0 teams.events.data.microsoft.com
+0.0.0.0 af.opera.com
+0.0.0.0 fr.app.chat.global.xiaomi.net
+0.0.0.0 ic3.events.data.microsoft.com
 
 # Add security to ip cameras
 0.0.0.0 mac.secu100.net
